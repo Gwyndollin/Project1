@@ -6,7 +6,7 @@ using namespace std;
 int main() {
 	int a;
 
-	cout << "sua mae e: " << endl;
+	cout << "sua mae me mama: " << endl;
 	cin >> a;
 
 	system("pause");
